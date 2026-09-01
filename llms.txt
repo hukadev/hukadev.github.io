@@ -1,0 +1,33 @@
+# Simply Huka (huka.dev)
+
+> Personal digital garden and blog of Huka — sharing thoughts on software engineering, technology, self-development, and life.
+
+## Recent Blog Posts
+
+- [Bạn Trai Lâu Năm](https://huka.dev/blog/ban-trai-lau-nam)
+- [Tránh quá lứa lỡ thì](https://huka.dev/blog/tranh-qua-lua-lo-thi)
+- [Mật ngọt chết ruồi](https://huka.dev/blog/mat-ngot-chet-ruoi)
+- [Nằm thẳng là công lý - tóm gọn](https://huka.dev/blog/nam-thang-la-cong-ly-short)
+- [5 Dấu Hiệu Ai Đó Đang "Rải Bánh Mì" (Breadcrumbing) Trong Một Mối Quan Hệ](https://huka.dev/blog/5-dau-hieu-ai-do-dang-rai-banh-mi-breadcrumbing-trong-mot-moi-quan-he)
+- [6 Dấu Hiệu Cho Thấy Bạn Đang Trong Một Mối Quan Hệ Độc Hại](https://huka.dev/blog/6-dau-hieu-cho-thay-ban-dang-trong-mot-moi-quan-he-doc-hai)
+- [Chủ nghĩa tối giản - Mark Manson](https://huka.dev/blog/chu-nghia-toi-gian-mark-manson)
+- [Đảo ngược - Kỹ năng tư duy cốt lõi chưa từng ai dạy bạn](https://huka.dev/blog/dao-nguoc-ky-nang-tu-duy-cot-loi-chua-tung-ai-day-ban)
+- [Khi nào nên chia tay và khi nào nên kiên trì](https://huka.dev/blog/khi-nao-nen-chia-tay-va-khi-nao-nen-kien-tri)
+- [Một Lời Giải Thích Đơn Giản Cho Cuộc Khủng Hoảng Hẹn Hò Và Kết Đôi](https://huka.dev/blog/mot-loi-giai-thich-don-gian-cho-cuoc-khung-hoang-hen-ho-va-ket-doi): Tại sao một số người trẻ đang né tránh việc hẹn hò, kết hôn hay sinh con?
+- [Những người vô tình hủy hoại mối quan hệ của mình đến mức không thể cứu vãn thường có 5 thói quen này](https://huka.dev/blog/nhung-nguoi-vo-tinh-huy-hoai-moi-quan-he-cua-minh-den-muc-khong-the-cuu-van-thuong-co-5-thoi-quen-nay)
+- [Tại sao một số người không bao giờ ngừng cằn nhằn](https://huka.dev/blog/tai-sao-mot-so-nguoi-khong-bao-gio-ngung-can-nhan)
+- [Tại sao nhiều người lại tìm kiếm sự công nhận từ những người không trân trọng họ](https://huka.dev/blog/tai-sao-nhieu-nguoi-lai-tim-kiem-su-cong-nhan-tu-nhung-nguoi-khong-tran-trong-ho)
+- [Trai ngoan hay Trai hư - Phụ nữ muốn gì?](https://huka.dev/blog/trai-ngoan-hay-trai-hu-phu-nu-muon-gi)
+- [38 Lời Khuyên Sâu Sắc Nhất Bá Tước Chesterfield Gửi Con Trai](https://huka.dev/blog/38-loi-khuyen-sau-sac-nhat-ba-tuoc-chesterfield-gui-con-trai)
+- [4 Phương Pháp Nuôi Dạy Con (Và Phương Pháp Nào Là Tốt Nhất)](https://huka.dev/blog/4-phuong-phap-nuoi-day-con-va-phuong-phap-nao-la-tot-nhat)
+- [5 Lời Khuyên Để Ngừng So Sánh Bản Thân Với Người Khác](https://huka.dev/blog/5-loi-khuyen-de-ngung-so-sanh-ban-than-voi-nguoi-khac)
+- [Cuộc sống không tốt cũng chẳng xấu; Nó chỉ đơn thuần là chính nó](https://huka.dev/blog/cuoc-song-khong-tot-cung-chang-xau-no-chi-don-thuan-la-chinh-no)
+- [Lý Do Tại Sao Thao Túng Bằng Cảm Giác Tội Lỗi Không Phải Là Một Chiến Lược Nuôi Dạy Con Tốt](https://huka.dev/blog/ly-do-tai-sao-thao-tung-bang-cam-giac-toi-loi-khong-phai-la-mot-chien-luoc-nuoi-day-con-tot)
+- [Năm Giai Đoạn Của Sự Đau Buồn Có Thể Giúp Bạn Vượt Qua Mất Mát Như Thế Nào](https://huka.dev/blog/nam-giai-doan-cua-su-dau-buon-co-the-giup-ban-vuot-qua-mat-mat-nhu-the-nao)
+
+## Site Sections
+
+- [Knowledge Graph](https://huka.dev/graph): Interactive visualization of notes and backlinks.
+- [Topic Tags](https://huka.dev/tags): Explore articles categorized by subject tags.
+- [Article Archives](https://huka.dev/archives): Timeline archive of all published articles by year.
+- [Site Policy & Terms](https://huka.dev/terms): Privacy policy, terms of service, and copyright guidelines.

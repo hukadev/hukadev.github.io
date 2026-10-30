@@ -1,0 +1,1 @@
+var e=`/landing-asset/ui.KHnjJg-6.css`;export{e as default};

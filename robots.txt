@@ -1,0 +1,17 @@
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-Web
+User-agent: Anthropic-AI
+User-agent: CCBot
+User-agent: Google-Extended
+User-agent: PerplexityBot
+User-agent: Bytespider
+Disallow: /
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_astro/
+
+Sitemap: https://huka.dev/sitemap-index.xml
